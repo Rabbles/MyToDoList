@@ -12,7 +12,7 @@ class App extends Component {
       {
         id: 2,
         title: 'Do some React tutorials',
-        completed: false
+        completed: true
       },
       {
         id: 3,
